@@ -1,0 +1,2 @@
+# credit-card-fraud-detection-HMM
+Hidden Markov Model (HMM) is used to model the sequence of operations in credit card transaction processing and demonstrate how to use it to identify fraud. An HMM is initially conditioned on a cardholder's normal behaviour using the KMeans algorithm for clustering. HMM calculated the probability of sequence, and when a qualified HMM does not authorize a credit card purchase with a high enough likelihood, it is classified as 'Fraudulent.' This approach comes out to be efficient, scalable and quite accurate in real-time predictions.
